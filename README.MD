@@ -78,7 +78,12 @@ Contributions are welcome! Please open an issue before making major changes such
 
 ## ⚖️ License
 
-All NordDRG tables are redistributed under the terms of the **NordDRG Consortium license** (*non-commercial research use only*). See individual files for license headers where applicable.
+All NordDRG tables are openly available through the NordDRG Forum:
+https://nordcase.org/forum/
+https://nordcaseforum.easyredmine.com/
+
+A separate license document applies to the production of DRG Groupers and the use of national versions:
+https://nordcase.org/products/groupers-definition-tables/
 
 ---
 
