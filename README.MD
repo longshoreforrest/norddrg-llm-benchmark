@@ -56,11 +56,14 @@ A demonstration included in the preprint evaluates five proprietary LLMs (GPT-4o
 If you use this benchmark, please cite:
 
 ```bibtex
-@misc{norddrg-ai-benchmark2025,
-  title        = {The NordDRG AI Benchmark for Large Language Models},
-  author       = {Pitkäranta, Tapio},
-  howpublished = {arXiv preprint arXiv:xxx},
-  year         = {2025}
+@misc{pitkäranta2025norddrgaibenchmarklarge,
+      title={The NordDRG AI Benchmark for Large Language Models}, 
+      author={Tapio Pitkäranta},
+      year={2025},
+      eprint={2506.13790},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2506.13790}, 
 }
 ```
 
